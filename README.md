@@ -10,4 +10,4 @@ Coincidentally, the parsing implementation of such data in different object orie
 python JSONGenerator/generator.py <url_to_json_object> 
 
 ## Output
-A build folder within the directory of execution will contain the classes generated.
+A output folder within the directory of execution will contain the classes generated.
