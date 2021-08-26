@@ -14,7 +14,7 @@ if __name__ == '__main__':
 	jsonObject = %s
 	test = %s()
 	test.parse(jsonObject)
-	print test
+	print(test)
 '''
 
 ClassPrintingTemplate = '''
